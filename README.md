@@ -2,7 +2,7 @@
 
 We build open-source tools for crypto gambling transparency and fairness verification.
 
-🌐 [GamblingBitcoin.com](https://gamblingbitcoin.com) — Independent crypto casino reviews & guides since 2014
+🌐 [GamblingBitcoin.com](https://gamblingbitcoin.com) — Independent crypto casino reviews & guides
 
 ### Our Open-Source Tools
 
@@ -11,7 +11,6 @@ We build open-source tools for crypto gambling transparency and fairness verific
 
 ### About
 
-We're an independent informational resource covering cryptocurrency gambling. 
-We don't operate any casino — we help players make informed decisions.
+We're an independent informational resource covering cryptocurrency gambling. We don't operate any casino — we help players make informed decisions.
 
 Based in the United Kingdom 🇬🇧
