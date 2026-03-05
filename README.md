@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey 👋 We're GamblingBitcoin
 
-<!--
-**gamblingbitcoin/gamblingbitcoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We build open-source tools for crypto gambling transparency and fairness verification.
 
-Here are some ideas to get you started:
+🌐 [GamblingBitcoin.com](https://gamblingbitcoin.com) — Independent crypto casino reviews & guides since 2014
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Our Open-Source Tools
+
+- 🎲 [Provably Fair Verifier](https://github.com/gamblingbitcoin/provably-fair-verifier) — Verify game outcomes for dice, crash, limbo, plinko & more
+- 📖 [How Provably Fair Works](https://gamblingbitcoin.com/provably-fair/) — Complete guide
+
+### About
+
+We're an independent informational resource covering cryptocurrency gambling. 
+We don't operate any casino — we help players make informed decisions.
+
+Based in the United Kingdom 🇬🇧
